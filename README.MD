@@ -1,1 +1,1 @@
-Django project for portfolio demo
+Django project for portfolio website
